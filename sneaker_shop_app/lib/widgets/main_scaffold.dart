@@ -18,7 +18,7 @@ class MainScaffold extends ConsumerWidget {
 
   bool _isStaffOrAdmin(String? role) {
     final r = role?.toLowerCase();
-    return r == 'staff' || r == 'admin';
+    return r == 'staff' || r == 'admin'  || r == 'user';
   }
 
   @override

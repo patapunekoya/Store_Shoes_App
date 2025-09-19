@@ -7,6 +7,9 @@
     "outDir": "dist",
     "strict": true,
     "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "resolveJsonModule": true,
+    "types": ["node", "multer"],
     "skipLibCheck": true
   },
   "include": ["src"]
