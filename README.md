@@ -3,7 +3,7 @@
 
 ## 📖 Overview
 Sneaker Shop là một ứng dụng **Fullstack** bao gồm:
-- **Frontend:** Flutter (Android/iOS/Web)
+- **Frontend:** Flutter (Android)
 - **Backend:** Node.js + Express + Prisma + PostgreSQL
 - **Database:** PostgreSQL
 
@@ -67,7 +67,7 @@ JWT_SECRET=your_jwt_secret
 
 ### 2️⃣ Frontend (Flutter)
 ```bash
-cd frontend
+cd sneaker_shop_app
 flutter pub get
 flutter run
 ```
