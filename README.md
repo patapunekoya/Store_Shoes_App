@@ -90,11 +90,4 @@ class AppConfig {
 - [x] Giao diện Flutter hiện đại (Grid, Filter, Search)
 - [x] Role-based UI (User / Admin / Staff)
 
----
 
-
-
----
-
-## 📜 License
-MIT License © 2025 Sneaker Shop App
