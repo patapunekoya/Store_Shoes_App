@@ -92,9 +92,7 @@ class AppConfig {
 
 ---
 
-## 📸 Screenshots
 
-*(Thêm ảnh chụp màn hình nếu có)*
 
 ---
 
